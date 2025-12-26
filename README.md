@@ -1,5 +1,13 @@
 # Toll Management System API
 
+![Python](https://img.shields.io/badge/python-3.10+-blue.svg)
+![FastAPI](https://img.shields.io/badge/FastAPI-0.109.0-009688.svg)
+![MySQL](https://img.shields.io/badge/MySQL-8.0+-4479A1.svg)
+![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-2.0-red.svg)
+![License](https://img.shields.io/badge/license-Educational-green.svg)
+![Status](https://img.shields.io/badge/status-active-success.svg)
+![Contributions](https://img.shields.io/badge/contributions-welcome-brightgreen.svg)
+
 A comprehensive toll plaza management system built with FastAPI and MySQL, demonstrating clean architecture principles, design patterns, and database integration.
 
 ## 📋 Overview
