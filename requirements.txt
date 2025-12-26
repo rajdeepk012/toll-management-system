@@ -1,0 +1,14 @@
+# FastAPI Framework
+fastapi==0.109.0
+
+# ASGI server to run FastAPI
+uvicorn==0.27.0
+
+# Data validation
+pydantic==2.5.3
+
+# Database - SQLAlchemy ORM
+sqlalchemy==2.0.23
+
+# Database - MySQL driver
+pymysql==1.1.0
